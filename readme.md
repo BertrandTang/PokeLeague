@@ -24,6 +24,7 @@ Nous te laissons carte blanche pour le reste !
 <summary> Quelques étapes pour commencer ? </summary>
 
 - Créer le MCD, MLD de la base de donnée
+- User Stories et Script.sql
 - Installer les dépendances npm init -y 
 - Créer des dossiers genre models, controller
 - Créer le router, les routes, les models et les controllers
